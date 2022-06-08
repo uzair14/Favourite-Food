@@ -1,0 +1,13 @@
+footer{
+    display: flex;
+} 
+h2{
+    width: 50%;
+}
+#h2item2{
+    text-align:right;
+}
+
+main{
+    height: 700px;
+}
